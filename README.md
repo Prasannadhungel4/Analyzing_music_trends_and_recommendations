@@ -1,0 +1,2 @@
+# Analyzing_music_trends_and_recommendations
+ Here, we will discover Million Song Dataset to peek inside a small section of online music listeners. We will then start on the learning curve of building different types of recommendation engines. We will build basic Popularity based recommendation engine and advance to Item Similarity based recommendation engines.  We wll explore some basics of matrix factorization and learn how a very basic factorization method like singular value decomposition can be used for developing recommendations.
